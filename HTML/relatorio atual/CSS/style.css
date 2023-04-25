@@ -1,0 +1,106 @@
+.menu{
+    margin-left: 400px;
+}
+
+.img{
+    margin: 0 auto;
+    width: 200px;
+}
+
+.img3{
+    margin-left: 25px;
+}
+
+.caixa{
+    border: 1px solid black;
+    float: right;
+    margin: 10px 10px 0 0;
+    
+}
+
+.clear{
+    border: 1px solid black;
+    margin: 10px 10px 0 0;
+}
+
+.clear p{
+    clear: both;
+}
+
+.clear{
+    clear:both
+}
+
+main{
+    margin:auto;
+    max-width: 960px;
+}
+section{
+    border:1px solid #ccc;
+    margin-bottom: 20px;
+    padding: 10px;
+    text-align: justify;
+    background-color: #fff;
+}
+   
+    article{
+        float: left;
+        width: 660px;
+    }
+section h2{
+    border-bottom: 1px dashed #ffebcd;
+    margin: 0;
+    margin: auto;
+}
+section img{
+    border: 1px solid;
+    float: left;
+    margin: 10px 10px 0 0;
+    padding: 2px;
+    width: 180px;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+nav ul,
+nav li{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+nav ul{
+    display: flex;
+    text-align: center;
+    font-weight: bold;
+}
+nav a{
+    display: block;
+    text-decoration: none;
+    padding: 15px;
+    color: #000;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align: center;
+}
+nav .active a,
+nav a:hover{
+    background-color: thistle;
+    text-align: center;
+}
+
+aside{
+    background-color: #fff;
+    border: 3px solid #fff;
+    float: left;
+    padding: 10px;
+}
+
+h1:hover{
+    color: #592323;
+}
+h4:hover{
+    color: #592323;
+}

@@ -1,0 +1,48 @@
+table, td, th{
+    border: solid 1px
+}
+table, td{
+    border-collapse: collapse;
+}
+.dias{
+    background-color: rgb(71, 69, 69);
+}
+.i{ 
+    background-color: rgb(71, 69, 69);
+}
+.s{
+    background-color: rgb(71, 69, 69);
+}
+.a{
+    background-color: rgb(71, 69, 69);
+}
+.b{
+    background-color: rgb(71, 69, 69);
+}
+.e{
+    background-color: rgb(71, 69, 69);
+}
+.l{
+    background-color: rgb(71, 69, 69);
+}
+.l{
+    background-color: rgb(71, 69, 69);
+}
+.a{
+    background-color: rgb(71, 69, 69);
+}
+.r{
+    background-color: rgb(71, 69, 69);
+}
+.o{
+    background-color: rgb(71, 69, 69);
+}
+.u{
+    background-color: rgb(71, 69, 69);
+}
+.j{
+    background-color: rgb(71, 69, 69);
+}
+td{
+    background-color: aquamarine;
+}

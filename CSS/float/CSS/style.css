@@ -1,0 +1,23 @@
+section{
+    width: 700px;
+    margin: auto;
+}
+.caixa{
+    background-color: rgb(82,180,236);
+    border: 1px solid black;
+    float: right;
+    height: 200px;
+    margin: 5px;
+    width: 200px;
+}
+.caixa2{
+    background-color: rgb(82, 231, 236);
+    border: 1px solid black;
+    float: left;
+    height: 200px;
+    margin: 5px;
+    width: 200px;
+}
+p{
+    text-align: justify;
+}

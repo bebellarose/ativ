@@ -1,0 +1,30 @@
+body{
+    background-color: #262737;
+    color: aliceblue;
+}
+
+section{
+    border: 1px solid black;
+    padding: 70px;
+}
+
+.titulo{
+    text-align: center;
+}
+
+.paragrafodoarticle{
+    text-align: right;
+}
+
+article .boxPadding{
+    border: 1px solid rgb(42, 226, 145);
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+}
+
+footer .boxPadding{
+    border: 1px solid white;
+    padding: 25px 50px 75px 100px;
+}
